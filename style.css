@@ -125,7 +125,7 @@ font-size: 30px;
     text-decoration: none;
 }
 
-@media screen and (max-width: 768px){
+/* @media screen and (max-width: 768px){
    .third-group .eig-img{
         display: none;
     }
@@ -135,7 +135,7 @@ font-size: 30px;
 .nin-img{
 display: none;
 }    
-}
+} */
 
 @media screen and (max-width: 768px) {
     body{
